@@ -1,0 +1,12 @@
+.btn-navbar {
+    background-color: #007bff;
+    border: none;
+    border-radius: 0.5rem;
+    padding: 10px 20px;
+    font-size: 1.2rem;
+    width: 12%;   
+    display: block;
+    color: white;
+    cursor: pointer;
+    transition: background-color 0.3s ease-in-out;
+}

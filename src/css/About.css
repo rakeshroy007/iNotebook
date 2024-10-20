@@ -1,0 +1,71 @@
+.main-container {
+    max-width: 800px; /* Limit the width of the container */
+    margin: auto; /* Center the container */
+    padding: 20px; /* Add some padding */
+    background-color: #f9f9f9; /* Light background color for contrast */
+    border-radius: 8px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
+  }
+  
+  h1 {
+    font-size: 2.5rem; /* Larger font for the main title */
+    color: #333; /* Dark color for the title */
+    text-align: center; /* Center align the title */
+    margin-bottom: 20px; /* Spacing below the title */
+  }
+  
+  h3 {
+    font-size: 1.5rem; /* Slightly smaller font for subtitles */
+    color: #555; /* Lighter color for subtitles */
+    margin-top: 30px; /* Space above subtitles */
+  }
+  
+  p {
+    line-height: 1.6; /* Improve readability with line spacing */
+    color: #666; /* Gray color for paragraph text */
+  }
+  
+  ul {
+    list-style-type: disc; /* Default bullet points for lists */
+    padding-left: 20px; /* Indent the list */
+  }
+  
+  li {
+    margin-bottom: 10px; /* Space between list items */
+  }
+  
+  .mt-3 {
+    margin-top: 1.5rem; /* Spacing utility for margins */
+  }
+  
+  .mt-4 {
+    margin-top: 2rem; /* More spacing utility */
+  }
+  
+  .text-center {
+    text-align: center; /* Center align text */
+  }
+  
+  .bg-light {
+    background-color: #f8f9fa; /* Light background for components */
+  }
+  
+  .border-radius {
+    border-radius: 0.5rem; /* Consistent border radius */
+  }
+  
+  /* Responsive adjustments */
+  @media (max-width: 600px) {
+    h1 {
+      font-size: 2rem; /* Smaller title on mobile */
+    }
+  
+    h3 {
+      font-size: 1.25rem; /* Smaller subtitles on mobile */
+    }
+  
+    p, li {
+      font-size: 0.9rem; /* Slightly smaller text on mobile */
+    }
+  }
+  

@@ -1,0 +1,14 @@
+.no-notes-box {
+    background-color: #f8f9fa;
+    border-radius: 12px; 
+    border: 1px solid #e0e0e0; 
+    color: #6c757d;
+  }
+  .no-notes-box h3 {
+    color: #343a40; 
+    font-weight: bold;
+  }
+  .no-notes-box p {
+    font-size: 1rem;
+    margin-top: 10px;
+  }
