@@ -65,6 +65,14 @@ iNotebook is a cloud-based MERN (MongoDB, Express.js, React, Node.js) stack appl
 - react-router-dom: For routing between components.
 - bootstrap: For responsive and professional UI components.
 
+## Screenshots
+![iNotebook](https://github.com/user-attachments/assets/c870f3e2-23a3-4fbe-98c4-c200c6d9b1ab)
+-
+![iNotebook-addNote](https://github.com/user-attachments/assets/08484a97-8b2f-4375-8937-6399f238a1bf)
+
+![iNotebook-edit](https://github.com/user-attachments/assets/e3263444-0074-41b0-8fd7-7355026953dc)
+![iNotebook-noNotes](https://github.com/user-attachments/assets/25bdc0cb-cb01-4f80-bfd5-3826ecb547ce)
+
 ## How to Contribute
 Feel free to fork the repository, submit a pull request, or report issues. Contributions and suggestions are welcome!
 ##  One Bug Details :
