@@ -1,5 +1,5 @@
 # iNotebook
-iNotebook is a cloud-based MERN (MongoDB, Express.js, React, Node.js) stack application that allows users to create, read, update, and delete (CRUD) notes in a secure and user-friendly environment. This app implements user authentication, note management, and state handling using React hooks and the Context API.
+iNotebook is a cloud-based MERN (MongoDB, Express.js, React, Node.js) stack application that allows users to create, read, update, and delete (CRUD) notes in a secure and user-friendly environment. This app implements user authentication, note management, and state handling using React hooks and the Context API.    [Live](https://inotebook-deploy.onrender.com/)
 
 
 ## Features
