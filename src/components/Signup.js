@@ -35,7 +35,7 @@ const Signup = (props) => {
 
       // Redirect korar jonno useNavigate hook er sahajjo nebo...
       props.showAlert("Account Created Successfully.", "success")
-      navigate("/")
+      navigate("/login")
 
     }
     else {

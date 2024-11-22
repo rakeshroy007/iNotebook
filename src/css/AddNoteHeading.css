@@ -1,0 +1,21 @@
+.heading-bar {
+    background-color: #007bff; /* Professional blue color */
+    color: #fff;
+    padding: 15px 20px;
+    border-radius: 8px;
+    text-align: center;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+  }
+  
+  .heading-title {
+    font-size: 1.8rem;
+    margin: 0;
+    font-weight: 600;
+  }
+  
+  .heading-subtitle {
+    font-size: 1rem;
+    margin: 5px 0 0 0;
+    color: #dbeafe; /* Slightly lighter shade for contrast */
+    font-weight: 400;
+  }

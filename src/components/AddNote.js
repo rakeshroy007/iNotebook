@@ -1,6 +1,7 @@
 import React, { useContext, useState } from 'react'
 import noteContext from "../context/notes/noteContext"
 import '../css/Addnote.css'
+import "../css/AddNoteHeading.css"
 
 
 const AddNote = (props) => {
@@ -23,7 +24,10 @@ const AddNote = (props) => {
 
     return (
         <div className='container my-3' >
-            <h2> Add a Note </h2>
+            <div class="heading-bar">
+                <h2 class="heading-title">Add a Note</h2>
+                <p class="heading-subtitle">Organize your thoughts and tasks efficiently</p>
+            </div>
             <form className='my-3'>
                 <div className="mb-3">
                     <label htmlFor="title" className="form-label">Title</label>
